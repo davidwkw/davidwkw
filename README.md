@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello! I'm David 👋
 
-<!--
-**davidwkw/davidwkw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- You can also refer to me as Khang Waei.
+- I'm currently a cadet of [42 Kuala Lumpur](https://42kl.edu.my/), a free p2p coding programme for anyone to join regardless of background
+- I've just completed my own version of a [webserver](https://github.com/davidwkw/42_webserv).
+- I'm currently studying for [AWS's Cloud Practitioner Certification](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=davidwkw&color=orange&style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,py,bash)](https://skillicons.dev)
+
+## Tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,postman,postgres,bash,vim,linux,docker)](https://skillicons.dev)
+
+## My stats:
+[![David's](https://github-readme-stats.vercel.app/api?username=davidwkw)](https://github.com/anuraghazra/github-readme-stats)
