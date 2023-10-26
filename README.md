@@ -15,4 +15,4 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,postman,postgres,bash,vim,linux,docker)](https://skillicons.dev)
 
 ## My stats:
-[![David's](https://github-readme-stats.vercel.app/api?username=davidwkw)](https://github.com/anuraghazra/github-readme-stats)
+[![David's](https://github-readme-stats.vercel.app/api?username=davidwkw&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
