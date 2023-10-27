@@ -4,7 +4,7 @@
 - You can also refer to me as Khang Waei.
 - I'm currently a cadet of [42 Kuala Lumpur](https://42kl.edu.my/), a free p2p coding programme for anyone to join regardless of background
 - I've just completed my own version of a [webserver](https://github.com/davidwkw/42_webserv).
-- I'm currently studying for [AWS's Cloud Practitioner Certification](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+- I'm currently studying for [AWS's Cloud Practitioner Certification](https://aws.amazon.com/certification/certified-cloud-practitioner/) as well as 42's scop and swifty companion project.
 
 ![](https://komarev.com/ghpvc/?username=davidwkw&color=orange&style=for-the-badge)
 
