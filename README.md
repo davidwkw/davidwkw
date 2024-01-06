@@ -3,8 +3,7 @@
 ## About me
 - You can also refer to me as Khang Waei.
 - I'm currently a cadet of [42 Kuala Lumpur](https://42kl.edu.my/), a free p2p coding programme for anyone to join regardless of background
-- I've just completed my own version of a [webserver](https://github.com/davidwkw/42_webserv).
-- I'm currently coding for 42's scop project.
+- I'm currently working on 42's graphical scop project using Vulkan.
 
 ![](https://komarev.com/ghpvc/?username=davidwkw&color=orange&style=for-the-badge)
 
