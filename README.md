@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,js,py,bash,tailwind,html,css)](https://skillicons.dev)
 
 ## My Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,postman,postgres,bash,vim,linux,docker,react,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,postman,postgres,bash,vim,linux,docker,react,nextjs,nginx)](https://skillicons.dev)
 
 ## My stats:
 [![David's](https://github-readme-stats.vercel.app/api?username=davidwkw&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
